@@ -58,19 +58,22 @@ rbac-management-system
 </br>
 |  |-components
 </br>
-|  |- UserManagement.js
+| | |- UserManagement.js
 </br> 
-|  |
+| | |
 </br>
-|  |- RoleManagement.js
-|  |
+| | |- RoleManagement.js
+</br>
+| |
 </br>
 |  |- APP.js
  </br>
 |  |- App.css
  </br>
 |  |- index.js
+</br>
 |
+</br>
 |-README.md
 </br>
 |-package.json
