@@ -1,10 +1,14 @@
+
 ## RBAC Management System ##
 
 The RBAC (Role-Based Access Control) Management System is a React-based application that allows administrators to manage users and roles efficiently. This system supports adding, editing, and deleting users and roles while ensuring a user-friendly and responsive design.
-
+</br>
 # deply link
+</br>
   Deploy on Netlify :- https://rbac-management-system.netlify.app/
+  </br>
   Deploy on Vercel :-  https://rbac-management-system.vercel.app/
+  </br>
 ** Features **
 # User Management #
 => Add new users with a name and a specific role.
@@ -31,17 +35,27 @@ Font Family: Roboto.
 
 
 rbac-management-system
+</br>
 |-public
+</br>
 |-src
+</br>
 |  |-components
+</br>
 |  |    |- UserManagement.js
-|  |    |- RoleManagement.js
+</br>    </br>
+| 
+</br>|    |- RoleManagement.js
 |  |
+</br>
 |  |- APP.js
+   </br>
 |  |- App.css
+   </br>
 |  |- index.js
 |
 |-README.md
+</br>
 |-package.json
 
 ## user management 
