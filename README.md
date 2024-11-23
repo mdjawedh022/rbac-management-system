@@ -40,3 +40,12 @@ rbac-management-system
 |
 |-README.md
 |-package.json
+
+
+![Screenshot 2024-11-23 125119](https://github.com/user-attachments/assets/53fcb212-ba6c-4805-81ed-6263e708537c)
+
+
+
+![Screenshot 2024-11-23 125135](https://github.com/user-attachments/assets/09fb6313-94f2-4e2f-bab6-0df646decf67)
+
+
