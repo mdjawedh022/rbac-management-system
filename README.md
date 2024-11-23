@@ -26,17 +26,17 @@ LocalStorage: To persist user and role data.
 Font Family: Roboto.
 
 
-rbac-management-system/
-│
-├── public/                  
-├── src/
-│   ├── components/
-│   │   ├── UserManagement.js    # User management logic and UI
-│   │   ├── RoleManagement.js    # Role management logic and UI
-│   │
-│   ├── App.js                 # Main application entry point
-│   ├── App.css                # Application styling
-│   ├── index.js               # ReactDOM rendering
-│
-├── README.md                 # Documentation
-├── package.json              # Dependencies and scripts
+
+rbac-management-system
+|-public
+|-src
+|  |-components
+|  |    |- UserManagement.js
+|  |    |- RoleManagement.js
+|  |
+|  |- APP.js
+|  |- App.css
+|  |- index.js
+|
+|-README.md
+|-package.json
