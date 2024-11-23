@@ -60,8 +60,9 @@ rbac-management-system
 </br>
 |  |- UserManagement.js
 </br> 
-| 
-</br>| </br>   |- RoleManagement.js
+|  |
+</br>
+|  |- RoleManagement.js
 |  |
 </br>
 |  |- APP.js
